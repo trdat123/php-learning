@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.error {
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+.success {
+    text-align: center;
+    font-size: 30px;
+    color: green;
+}
+
+div {
+    border-radius: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 1px 1px 3px #333333;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    line-height: 40px;
+    margin: auto;
+    width: 30%;
+    border: 3px solid white;
+    padding: 10px;
+}
